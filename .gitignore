@@ -1,0 +1,5 @@
+*.zip
+images-optimisees/
+.DS_Store
+Thumbs.db
+.vscode/
